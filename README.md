@@ -2,8 +2,7 @@
 
 A web-based interactive application built with Flask and Vanilla HTML/JS to visualize fundamental Reinforcement Learning concepts: **Policy Evaluation** and **Value Iteration** on a customizable grid map.
 
-# 網格地圖與價值迭代 (Value Iteration)
-👉 **[點此馬上體驗 Live Demo](https://drl-hw1-gridworld-aezt.onrender.com)**
+👉 **[Live Demo](https://drl-hw1-gridworld-aezt.onrender.com)**
 
 ## 🌟 Features
 
